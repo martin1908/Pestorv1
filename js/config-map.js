@@ -15,8 +15,8 @@
                 img_pin = 'images/icons/location.png';
             }
             if (data_map_x == null || data_map_y == null) {
-                data_map_x = -12.0489836;
-                data_map_y = -77.0944954;
+                data_map_x = -12.0492305;
+                data_map_y = -77.0951518;
             }
             if (scrollwhell == null) {
                 scrollwhell = 0;
@@ -208,8 +208,8 @@
                 map_zoom = 14;
 
             var locations = [
-                ['<div class="infobox"><h4>Snac</h4><p>Now that you visited our website, how' +
-                ' <br>about checking out our office too?</p></div>'
+                ['<div class="infobox"><h4>PESTOR APP</h4><p>Ahora que visitó nuestro sitio web,' +
+                ' <br>¿Qué tal visitar nuestra oficina también?</p></div>'
                     , latitude, longitude, 2]
             ];
 
